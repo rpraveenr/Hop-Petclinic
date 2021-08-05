@@ -2,6 +2,7 @@
 <!--dummyText-->
 <!--dummyText-2 created in branch2-->
 <!--dummyText created in branch3-->
+<!--dummyText-2 created in branch3 again-->
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns="http://maven.apache.org/POM/4.0.0"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
